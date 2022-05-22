@@ -43,6 +43,7 @@ Project is: _in progress_ i want to inplement an AI that reads your facial expre
 Room for improvement:
 - would like the popup screen to appear as soon as the alarm goes off instead of having to click a button
 - Stylisticly , i think KivyMD is very limitting . So i would like to improve on the front end of the app
+- 
 To do:
 -learn AI 
 ## Acknowledgements
