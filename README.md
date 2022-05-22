@@ -6,7 +6,6 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
@@ -48,8 +47,7 @@ To do:
 -learn AI 
 ## Acknowledgements
 Give credit here.
-- Watching codemy videos for Kivy helped me with this project 
-https://www.youtube.com/playlist?list=PLCC34OHNcOtpz7PJQ7Tv7hqFBP_xDDjqg
+- Watching codemy videos for Kivy helped me with this project https://www.youtube.com/playlist?list=PLCC34OHNcOtpz7PJQ7Tv7hqFBP_xDDjqg
 
 
 ## Contact
